@@ -1,0 +1,13 @@
+.emoticon {
+	display: inline-block;
+	margin: 1em;
+}
+
+#dropbox {
+	height: 50px;
+	background-color: lightgrey;
+}
+
+.emoticon .alternate {
+	display: none;
+}
